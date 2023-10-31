@@ -18,13 +18,21 @@ inpe_brazilian_amazon_fires_1999_2019.csv
 
 # Analysis Questions:
 1. Relationship Between Deforestation and Fire Incidents in Amazon?
+
 Is there a correlation between the amount of fire outbreaks and deforestation?
+
 2. Fire Incidents and CO2 Emissions in the Amazon?
+
 Is there a correlation between the amount of fire outbreaks in the forest and the Co2 Emissions as well?
+
 3. Area of Deforestation vs CO2 Emissions in the Amazon
+
 What is the correlation between Deforestation and Co2 Emissions within the Amazon?
+
 4. CO2 emissions in vs Neighboring Countries
+
 Can we use a T-test to compare CO2 Emissions from Brazil with those from neighboring countries?
+
 
 # Hypotheses:
 
