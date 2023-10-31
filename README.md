@@ -2,6 +2,53 @@
 
 Repo for project 1
 
+# Amazon CO2 Emissions and Deforestation
+
+This project’s goal is to determine whether or not CO2 emissions are in fact correlated to the amount of deforestation that has occurred in the Amazon Rainforest. Fire outbreaks are common and could influence the effects of deforestation and CO2 emissions which is why we decided to see if there is correlation between fire outbreaks, CO2 emissions, and deforestation.
+
+# Dataset Link:
+
+https://www.kaggle.com/datasets/mbogernetto/brazilian-amazon-rainforest-degradation
+
+# Datasets used from Link:
+def_area_2004_2019.csv
+
+inpe_brazilian_amazon_fires_1999_2019.csv
+
+
+# Analysis Questions:
+1. Relationship Between Deforestation and Fire Incidents in Amazon?
+
+Is there a correlation between the amount of fire outbreaks and deforestation?
+
+2. Fire Incidents and CO2 Emissions in the Amazon?
+
+Is there a correlation between the amount of fire outbreaks in the forest and the Co2 Emissions as well?
+
+3. Area of Deforestation vs CO2 Emissions in the Amazon
+
+What is the correlation between Deforestation and Co2 Emissions within the Amazon?
+
+4. CO2 emissions in vs Neighboring Countries
+
+Can we use a T-test to compare CO2 Emissions from Brazil with those from neighboring countries?
+
+
+# Hypotheses:
+
+Null:
+
+Deforestation does not play a role in the increase of CO2 emission levels in the atmosphere and an increase in the quantity of fire outbreaks.
+
+Alternative:
+
+Deforestation does play a role in the increase of CO2 emission levels in the atmosphere and an increase in the quantity of fire outbreaks.
+
+
+
+
+
+
 Codes for def_area_2004_2019.csv headers
 Ano/Estados
 Year of occurrence
