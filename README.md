@@ -49,7 +49,7 @@ Deforestation does play a role in the increase of CO2 emission levels in the atm
 
 
 
-#Codes for def_area_2004_2019.csv headers
+# Codes for def_area_2004_2019.csv headers
 
 Ano/Estados
 
