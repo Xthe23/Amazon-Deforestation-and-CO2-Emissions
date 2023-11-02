@@ -2,9 +2,10 @@
 
 Repo for project 1
 
-# Amazon CO2 Emissions and Deforestation
+# Brazil’s CO2 Emissions and Deforestation
 
-This project’s goal is to determine whether or not CO2 emissions are in fact correlated to the amount of deforestation that has occurred in the Amazon Rainforest. Fire outbreaks are common and could influence the effects of deforestation and CO2 emissions which is why we decided to see if there is correlation between fire outbreaks, CO2 emissions, and deforestation.
+This project’s goal is to determine whether or not CO2 emissions are in fact correlated to the amount of deforestation that has occurred in Brazil. Fire outbreaks are common and could influence the effects of deforestation and CO2 emissions which is why we decided to see if there is correlation between fire outbreaks, CO2 emissions, and deforestation.
+
 
 # Dataset Link:
 
@@ -17,32 +18,33 @@ inpe_brazilian_amazon_fires_1999_2019.csv
 
 
 # Analysis Questions:
-1. Relationship Between Deforestation and Fire Incidents in Amazon?
+
+1. Relationship Between Deforestation and Fire Incidents in Brazil?
 
 Is there a correlation between the amount of fire outbreaks and deforestation?
 
-2. Fire Incidents and CO2 Emissions in the Amazon?
+2. Fire Incidents and CO2 Emissions in Brazil?
 
 Is there a correlation between the amount of fire outbreaks in the forest and the Co2 Emissions as well?
 
-3. Area of Deforestation vs CO2 Emissions in the Amazon
+3. Area of Deforestation vs CO2 Emissions in Brazil
 
-What is the correlation between Deforestation and Co2 Emissions within the Amazon?
+What is the correlation between Deforestation and Co2 Emissions within Brazil?
 
-4. CO2 emissions in vs Neighboring Countries
+4. Co2 emissions of Brazil compared to neighboring countries
 
-Can we use a T-test to compare CO2 Emissions from Brazil with those from neighboring countries?
+Is there a correlation between Brazil's CO2 emissions and Brazil’s neighboring countries CO2 emissions?
 
 
 # Hypotheses:
 
 Null:
 
-Deforestation does not play a role in the increase of CO2 emission levels in the atmosphere and an increase in the quantity of fire outbreaks.
+Deforestation does not correlate to the increase of CO2 emission levels in the atmosphere or an increase in the quantity of fire outbreaks in Brazil. 
 
 Alternative:
 
-Deforestation does play a role in the increase of CO2 emission levels in the atmosphere and an increase in the quantity of fire outbreaks.
+Deforestation does correlate to the increase of CO2 emission levels in the atmosphere or an increase in the quantity of fire outbreaks in Brazil.
 
 
 
