@@ -47,7 +47,21 @@ Alternative:
 Deforestation does correlate to the increase of CO2 emission levels in the atmosphere or an increase in the quantity of fire outbreaks in Brazil.
 
 
+# Visualizations
 
+Fire outbreaks within Brazil
+
+Deforestation in Brazil per State
+
+Deforestation vs # Fire Outbreaks per Year (2004-2019)
+
+C02 Emissions vs Deforestation by Year (2004-2019)
+
+C02 Emissions vs # Fire Outbreaks by Year (2004-2019)
+
+2004 CO2 emissions of Brazil comapred to neighboring countries
+
+2019 CO2 emissions of Brazil comapred to neighboring countries
 
 
 
