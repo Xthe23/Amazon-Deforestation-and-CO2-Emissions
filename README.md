@@ -2,9 +2,9 @@
 
 Repo for project 1
 
-# Brazil’s CO2 Emissions and Deforestation
+# Brazil’s Deforestation, CO2 Emissions, and Fire Outbreaks
 
-This project’s goal is to determine whether or not CO2 emissions are in fact correlated to the amount of deforestation that has occurred in Brazil. Fire outbreaks are common and could influence the effects of deforestation and CO2 emissions which is why we decided to see if there is correlation between fire outbreaks, CO2 emissions, and deforestation.
+This project’s purpose is to determine whether the deforestation, CO2 emissions, and the fire outbreaks in Brazil are in fact correlated to each other. We have gathered our data and performed multiple statistical tests to provide the answers to our questions. After going over all of the results we will make our conclusion.
 
 
 # Dataset Link:
