@@ -12,9 +12,14 @@ This project’s purpose is to determine whether the deforestation, CO2 emission
 https://www.kaggle.com/datasets/mbogernetto/brazilian-amazon-rainforest-degradation
 
 # Datasets used from Link:
+
 def_area_2004_2019.csv
 
 inpe_brazilian_amazon_fires_1999_2019.csv
+
+# World Data Bank Python Module:
+
+https://wbdata.readthedocs.io/en/stable/
 
 
 # Analysis Questions:
