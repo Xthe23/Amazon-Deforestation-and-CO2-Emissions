@@ -40,11 +40,11 @@ Is there a correlation between Brazil's CO2 emissions and Brazil’s neighboring
 
 Null:
 
-Deforestation does not correlate to the increase of CO2 emission levels in the atmosphere or an increase in the quantity of fire outbreaks in Brazil. 
+Deforestation does not correlate with both Co2 emissions and the fire outbreaks.
 
 Alternative:
 
-Deforestation does correlate to the increase of CO2 emission levels in the atmosphere or an increase in the quantity of fire outbreaks in Brazil.
+Deforestation does not correlate with one, either the Co2 emissions or the fire outbreaks.
 
 
 # Visualizations
