@@ -2,6 +2,12 @@
 
 Repository for Project 1, focusing on the analysis of Brazil’s deforestation, CO2 emissions, and fire outbreaks to determine potential correlations.
 
+# Team
+
+- [Cole Lillge](https://github.com/clillge)
+- [Robyn Leslie](https://github.com/Robyn2024)
+- [Michael Kravitz](https://github.com/Xthe23)
+
 ## Brazil’s Deforestation, CO2 Emissions, and Fire Outbreaks
 
 The purpose of this project is to explore the relationships between deforestation, CO2 emissions, and fire outbreaks in Brazil. We have compiled data from various sources and conducted statistical analyses to answer our research questions. The conclusions drawn from this study will be based on the insights gained from the data.
